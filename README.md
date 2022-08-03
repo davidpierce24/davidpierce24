@@ -4,7 +4,7 @@ davidpierce24/davidpierce24 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-Hey, I'm [David](https://github.com/davidpierce24). I love to create! That's why I love being a software engineer / full-stack developer. I'm working on all kinds of stuff because I'm addicted to learning new things, so who knows what will pop up on this github. But, I'm currently learning Docker and Django, and working on a project that's similar to My Anime List, but hopely a little more user friendly. 
+Hey, I'm [David](https://github.com/davidpierce24). I love to create! That's why I love being a software engineer / full-stack developer. I'm working on all kinds of stuff because I'm addicted to learning new things, so who knows what will pop up on this github. But, I'm currently learning Docker and Django, and working on a project that's similar to My Anime List. 
 
 Go here to connect with me on LinkedIn:
 <!-- ![LinkedIn](https://user-images.githubusercontent.com/103011750/182666854-08f79ae3-40c3-4c22-b298-6943f70c5836.png) -->
